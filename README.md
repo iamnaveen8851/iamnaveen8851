@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" borderRadius="50%" width="700"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -27,6 +32,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnaveen8851&show_icons=true&locale=en&layout=compact" alt="iamnaveen8851" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnaveen8851&show_icons=true&locale=en" alt="iamnaveen8851" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnaveen8851&" alt="iamnaveen8851" /></p>
+
+
+
+
