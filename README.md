@@ -12,15 +12,15 @@
 
 🌍 I'm based in Delhi, India
 
-- 🌱 I’m currently pursuing **Full Stack Web Development**
+🌱 I’m currently pursuing **Full Stack Web Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Chakra UI & Redux, **
+💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Chakra UI & Redux, **
 
-- 📫 Email - **nk24528.nk81@gmail.com**
+📧 Email - **nk24528.nk81@gmail.com**
 
-- 💼 Portfolio - https://project-myportfolio.netlify.app/
+💼 Portfolio - https://project-myportfolio.netlify.app/
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15lj-G6I8rDWJkb3U7PoIIQddliKGvDhT/view?usp=sharing](https://drive.google.com/file/d/15lj-G6I8rDWJkb3U7PoIIQddliKGvDhT/view?usp=sharing)
+📄 Resume - https://drive.google.com/file/d/1PhHwQLraFWSVRZ41PXl_jArdOq90iPy4/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
