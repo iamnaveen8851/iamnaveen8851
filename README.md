@@ -10,11 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamnaveen8851" alt="iamnaveen8851" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+🌍 I'm based in Delhi, India
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 🌱 I’m currently pursuing **Full Stack Web Development**
 
-- 📫 How to reach me **nk24528.nk81@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Chakra UI & Redux, **
+
+- 📫 Email - **nk24528.nk81@gmail.com**
+
+- 💼 Portfolio - https://project-myportfolio.netlify.app/
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15lj-G6I8rDWJkb3U7PoIIQddliKGvDhT/view?usp=sharing](https://drive.google.com/file/d/15lj-G6I8rDWJkb3U7PoIIQddliKGvDhT/view?usp=sharing)
 
