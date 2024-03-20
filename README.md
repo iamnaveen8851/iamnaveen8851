@@ -20,8 +20,6 @@
 
 🌱 I’m currently pursuing **Full Stack Web Development**
 
-💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Chakra UI & Redux, **
-
 📧 Email - **nk24528.nk81@gmail.com**
 
 💼 Portfolio - https://project-myportfolio.netlify.app/
