@@ -4,9 +4,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">I'm a passionate Frontend Web developer who likes to do experiments on projects and is always ready to learn new concept eagerly 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnaveen8851&label=Profile%20views&color=0e75b6&style=flat" alt="iamnaveen8851" /> </p>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamnaveen8851&theme=radical&no-frame=false&no-bg=true&margin-w=4)
