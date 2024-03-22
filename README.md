@@ -27,7 +27,7 @@
 📄 Resume - https://drive.google.com/file/d/1PhHwQLraFWSVRZ41PXl_jArdOq90iPy4/view?usp=sharing
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnaveen168) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithnaveen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithnaveen)
 
 
 
