@@ -22,7 +22,7 @@
 
 📧 Email - **nk24528.nk81@gmail.com**
 
-💼 Portfolio - https://project-myportfolio.netlify.app/
+💼 Portfolio - https://portfolio-react-five-blush.vercel.app/
 
 📄 Resume - https://drive.google.com/file/d/1PhHwQLraFWSVRZ41PXl_jArdOq90iPy4/view?usp=sharing
 
