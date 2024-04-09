@@ -24,7 +24,7 @@
 
 💼 Portfolio - https://portfolio-react-five-blush.vercel.app/
 
-📄 Resume - https://drive.google.com/file/d/1PhHwQLraFWSVRZ41PXl_jArdOq90iPy4/view?usp=sharing
+📄 Resume - https://drive.google.com/file/d/1UObNTZYPSLRnn-V4CmrS4J3SoIMh7gZv/view?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithnaveen)
