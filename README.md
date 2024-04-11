@@ -22,7 +22,7 @@
 
 📧 Email - **nk24528.nk81@gmail.com**
 
-💼 Portfolio - https://portfolio-react-five-blush.vercel.app/
+💼 Portfolio - https://iamnaveen.vercel.app/
 
 📄 Resume - https://drive.google.com/file/d/1TOB6ntA9hfdyUGLTlDLiLiezoiEKWgfd/view?usp=sharing
 
