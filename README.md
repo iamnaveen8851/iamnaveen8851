@@ -39,9 +39,9 @@
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamnaveen8851&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamnaveen8851&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaveen8851&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=iamnaveen8851&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200"><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnaveen8851&theme=dark&hide_border=false" width="400" height="200"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnaveen8851&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="200">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamnaveen8851&limit=5&theme=dark&combine_all_yearly_contributions=true)
