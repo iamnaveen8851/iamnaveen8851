@@ -24,7 +24,7 @@
 
 💼 Portfolio - https://iamnaveen.vercel.app/
 
-📄 Resume - https://drive.google.com/file/d/1TOB6ntA9hfdyUGLTlDLiLiezoiEKWgfd/view?usp=sharing
+📄 Resume - https://drive.google.com/file/d/1RoCkM2k2iGRLCzCvzHb7dOiI6TpTmTkG/view?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithnaveen)
