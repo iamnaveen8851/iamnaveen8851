@@ -20,11 +20,11 @@
 
 🌱 I’m currently pursuing **Full Stack Web Development**
 
-📧 Email - **nk24528.nk81@gmail.com**
+📧 Email - **iamnaveen8851@gmail.com**
 
 💼 Portfolio - https://iamnaveen.vercel.app/
 
-📄 Resume - https://drive.google.com/file/d/1RoCkM2k2iGRLCzCvzHb7dOiI6TpTmTkG/view?usp=sharing
+📄 Resume - https://drive.google.com/file/d/1C2UlZXagHvECSmOvOFdp_umyvNZh7A3_/view?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithnaveen)
