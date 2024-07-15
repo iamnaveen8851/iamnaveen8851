@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h4 align="center">I'm a passionate Mern developer who likes to do experiments on projects and is always ready to learn new concept eagerly 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
+<h4 align="center">I'm a passionate MERN developer who likes to do experiments on projects and is always ready to learn new concept eagerly 😃. I focus on writing clean, elegant, and efficient code ✨.</h4>
 
 [![](https://visitcount.itsvg.in/api?id=iamnaveen8851&icon=0&color=0)](https://visitcount.itsvg.in)
 
