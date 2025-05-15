@@ -20,7 +20,7 @@
 
 🌍 I'm based in Delhi, India
 
-🌱 I’m currently pursuing **Full Stack Web Development**
+🌱 I’ve completed **Full Stack Web Development**
 
 📧 Email - **iamnaveen8851@gmail.com**
 
